@@ -7,4 +7,4 @@ By setting the above default option, git tag will correctly order version number
 
 The new Git version also contains several changes aimed at improving performance and a bunch of bug fixes. More details can be found in the full release notes. The above mentioned article by Tim Pettersen is also worth reading since it collects his thoughts on "some aspects of the release that got us excited at Atlassian" and more extensive examples.
 </p>
-<p><b>ref: quora.com - [http://www.infoq.com/news/2014/08/git21-release-whats-new]</b></p>
+<p><b>ref: http://www.infoq.com/news/2014/08/git21-release-whats-new</b></p>
